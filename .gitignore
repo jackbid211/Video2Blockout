@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+models/
+portable-python/
+runtime-packages/
+launcher-logs/
+*.log
+*.zip
+*.blend*
+examples/user-video-depth/
+your-video-depth.html

@@ -1,0 +1,5 @@
+-r requirements.txt
+opencv-contrib-python>=4.9
+torch>=2.2
+transformers>=4.42,<5
+safetensors>=0.4
